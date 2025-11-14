@@ -1,6 +1,6 @@
-# Hai 👋, Saya [Arief Widi Pratama]!
+# Hai 👋, Saya Arief Widi Pratama
 
-### Seorang [Full Stack Dev]
+### Seorang Full Stack Dev
 
 Selamat datang di profil GitHub saya! Saya seorang pengembang perangkat lunak yang bersemangat dengan keahlian di berbagai tumpukan teknologi (tech stack), mulai dari pengembangan web backend dan frontend hingga aplikasi mobile. Saya senang memecahkan masalah dan membangun solusi yang efisien dan skalabel.
 
@@ -51,10 +51,10 @@ Ini adalah teknologi, bahasa, dan alat yang saya kuasai dan sering gunakan dalam
 ## 📊 Statistik GitHub Saya
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[USERNAME-GITHUB-ANDA]&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub [NAMA ANDA]"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AriefWidiPratama&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Statistik GitHub [NAMA ANDA]"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[USERNAME-GITHUB-ANDA]&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriefWidiPratama&layout=compact&langs_count=8&theme=dracula" alt="Bahasa Teratas"/>
 </p>
 
 ---
