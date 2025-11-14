@@ -1,7 +1,11 @@
 ### 👋 Hi there, I'm @AriefWidiPratama!
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/c8/c86cce1c4921f75351a61c56b0d91295_w200.gif" width="150"/>
+  <a href="https://www.youtube.com/watch?v=9Nqjz5R8LrU" target="_blank">
+    <img src="https://img.youtube.com/vi/9Nqjz5R8LrU/maxresdefault.jpg" alt="ains oal gown buffing" width="600"/>
+    <br>
+    <strong>Klik untuk menonton: ains oal gown buffing</strong>
+  </a>
 </p>
 
 <p align="center">
