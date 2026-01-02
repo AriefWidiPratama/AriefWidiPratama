@@ -1,23 +1,28 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Arief;Full+Stack+Developer;Mobile+App+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=339933&center=true&vCenter=true&width=435&lines=Hi+There!+%F0%9F%91%8B+I'm+Arief;Full+Stack+Developer;Power+Platform+Enthusiast;Data+Processing+Learner" alt="Typing SVG" />
 </div>
 
 <h1 align="center">Arief Widi Pratama</h1>
 <p align="center">
-  <b>Membangun Solusi Skalabel | Web & Mobile Developer</b>
+  <b>Bridging Code & Data | Full Stack Dev & Power Platform Learner</b>
 </p>
 
 <p align="center">
-  Saya seorang pengembang perangkat lunak yang fokus pada efisiensi dan performa. 
-  Menguasai ekosistem JavaScript modern untuk Frontend, PHP/Laravel yang kokoh untuk Backend, 
-  serta pengembangan Mobile lintas platform.
+  Saya seorang pengembang perangkat lunak yang kini memperluas keahlian ke pengolahan data dan otomasi bisnis. 
+  Menggabungkan kemampuan teknis Full Stack (Web/Mobile) dengan kekuatan analisis data menggunakan ekosistem Microsoft Power Platform.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Tech Stack & Current Focus
 
 <div align="center">
+
+### 📊 Data & Power Platform (Fokus Saat Ini)
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white" />
+<img src="https://img.shields.io/badge/Data_Processing-black?style=for-the-badge&logo=google-sheets&logoColor=white" />
 
 ### 💻 Frontend
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -58,11 +63,11 @@
 
 ---
 
-## 🔭 Fokus Saat Ini
+## 🔭 Aktivitas Belajar
 
-- 🌱 Sedang mendalami: **Machine Learning Basics & Python Advanced**
-- 👯 Mencari kolaborasi di: **Open Source Laravel Projects**
-- 💬 Diskusi terbuka tentang: **Arsitektur Microservices & Flutter State Management**
+* 🌱 **Deep Dive:** Microsoft Power Platform (Power BI, Power Apps, Power Automate).
+* 📊 **Data Focus:** Teknik *Data Processing* dan Visualisasi Data Interaktif.
+* 👯 **Open for:** Proyek integrasi antara sistem web tradisional (Laravel/React) dengan solusi Low-Code Microsoft.
 
 ---
 
@@ -70,14 +75,11 @@
 
 ### 📬 Let's Connect
 
-<a href="https://linkedin.com/in/USERNAME_LINKEDIN_ARIEF" target="_blank">
+<a href="https://linkedin.com/in/arief-widi-pratama" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:EMAIL_ARIEF@GMAIL.COM" target="_blank">
+<a href="mailto:arief.widipratama@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="LINK_PORTFOLIO" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_Site-333333?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 </div>
