@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 Tech Stack (Arsenalku)
+## 🚀 Tech Stack
 
 <div align="center">
 
