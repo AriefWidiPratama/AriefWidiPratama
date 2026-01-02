@@ -51,13 +51,6 @@
 
 </div>
 
----
-
-## 📊 Statistik GitHub Saya
-
-![Statistik Arief](https://github-readme-stats.vercel.app/api?username=AriefWidiPratama&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Bahasa Teratas](https://github-readme-stats.vercel.app/api/top-langs/?username=AriefWidiPratama&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
