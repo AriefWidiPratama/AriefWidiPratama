@@ -56,7 +56,7 @@
 ## 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AriefWidiPratama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Statistik Arief" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AriefWidiPratama&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik Arief" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AriefWidiPratama&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" />
 </div>
